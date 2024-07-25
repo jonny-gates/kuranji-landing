@@ -894,10 +894,6 @@ html {
   background-color: var(--fallback-s,oklch(var(--s)/var(--tw-bg-opacity)));
 }
 
-.bg-hero-pattern {
-  background-image: url('/img/hero-pattern.svg');
-}
-
 .bg-contain {
   background-size: contain;
 }
